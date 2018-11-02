@@ -10,7 +10,7 @@ import java.time.Month;
 public class AccesoDatos {
  
     
-   
+   //Acá arranca la aplicación
     public static void main(String[] args) {
        Conexion con = new Conexion();
      AlumnoData ad= new AlumnoData(con); 

@@ -179,7 +179,7 @@ private AlumnoData alumnoData;
     }//GEN-LAST:event_btGuardarActionPerformed
 
     private void btBuscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btBuscarActionPerformed
-        Alumno alumno= new Alumno();
+  
             
     }//GEN-LAST:event_btBuscarActionPerformed
 
